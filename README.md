@@ -7,6 +7,13 @@
 
 > 微信开发者工具、ES6、php、mysql 
 
+#### 项目的启动
+
++ 由于学校接口以及校园搬迁问题，该小程序暂时以体验版呈现，二维码如下：
++ 普通学生登录名：172210409212  密码：13813788659pwx
++ 义工身份学生登录名：172210805208  密码：tiff.116833
+ ![](http://m.qpic.cn/psc?/V13COt0i0M53BC/ruAMsa53pVQWN7FLK88i5qXYsHjhlGdMDA9xbTlo5nAvldK4MWsfQCQj8lPNFh59fEjHRPjqXNtZXkCt4TuoyTHUI34s.FA0QDXTtluwYSc!/b&bo=2AHYAdgB2AEBCS4!&rf=viewer_4)
+
 #### 功能的实现
 
 > 有两个用户身份：普通学生与校园义工
@@ -32,11 +39,3 @@
 - 个人中心
 
   ![](http://m.qpic.cn/psc?/V13COt0i0M53BC/45NBuzDIW489QBoVep5mcbh767vqeF0pJnr66m29is0DqawxZDuNkEBjslF9d3VUc1bYWB*7RidV3VRbAqxNg73l44NCMjNWdQD5oKrZYAU!/b&bo=fgL8BH4C*AQDGTw!&rf=viewer_4)
-
-#### 项目的启动
-
-+ 由于学校接口以及校园搬迁问题，该小程序暂时以体验版呈现，二维码如下：
-+ 普通学生登录名：172210409212  密码：13813788659pwx
-+ 义工身份学生登录名：172210805208  密码：tiff.116833
- ![](http://m.qpic.cn/psc?/V13COt0i0M53BC/ruAMsa53pVQWN7FLK88i5qXYsHjhlGdMDA9xbTlo5nAvldK4MWsfQCQj8lPNFh59fEjHRPjqXNtZXkCt4TuoyTHUI34s.FA0QDXTtluwYSc!/b&bo=2AHYAdgB2AEBCS4!&rf=viewer_4)
-  
